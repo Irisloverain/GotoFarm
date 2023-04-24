@@ -13,7 +13,7 @@ Enya負責的前端技術：<br>
 
 Enya負責的後端技術：<br>
 ・使用mysql2與javascript分流購物車結帳商品<br>
-・使用mysql2語法實作購物車訂單的CRUD<br>
+・使用mysql2語法實作購物車訂單CRUD<br>
 ・使用multer處理會員頭像檔名解析<br>
 ・撰寫會員資料、持有的優惠卷、購物訂單API<br>
 ・使用line-pay-merchan串接LinePay金流<br>

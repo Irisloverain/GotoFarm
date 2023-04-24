@@ -8,7 +8,7 @@ Enya負責的前端技術：<br>
 ・使用useReducer製作購物車系統<br>
 ・使用javascript手刻下拉式選單<br>
 ・使用React Router V6呈現會員中心的Layout和Outlet<br>
-・使用Bootstrap Grid製作ＲＷＤ<br>
+・使用Bootstrap Grid製作RWD<br>
 ・使用line-pay-merchant串接LinePay金流<br>
 
 Enya負責的後端技術：<br>
